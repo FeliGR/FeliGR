@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/FeliGR">
-  <img align="center" alt="FeliGR's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img align="center" alt="FeliGR's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=FeliGR&show_icons=true&theme=dark" />
 </a>
 
 <!-- <a href="https://github.com/FeliGR">
