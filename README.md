@@ -6,8 +6,9 @@
 - 🥅 2020 Goals: Learn new technologies
 - ⚡ Fun fact: I love to play video games -->
 
+
 <a href="https://github.com/FeliGR">
-  <img align="center" alt="FeliGR's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=FeliGR&show_icons=true&theme=radical" />
+  <img align="center" alt="FeliGR's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
 </a>
 
 <!-- <a href="https://github.com/FeliGR">
