@@ -1,4 +1,4 @@
-### Hi there 👋, Felipe Guzman
+### Hi there 👋, Felipe Guzmán
 #### I am a Software Engineer Student at Intel Corporation
 
 Skills: C# / Kotlin / Java / C++ / Python
