@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a FullStack Developer with a passion for building scal
 - San José, Costa Rica
 
 ## 🚀 What I'm currently working on
-- Exploring Web 3 technologies at Dojo Coding to enhance my understanding of blockchain
+- Exploring Web 3 technologies to enhance my understanding of blockchain
 
 ## 🛠️ Skills
-- **Languages:** JavaScript (Vue.js), TypeScript, Java (Spring Boot), Python, Rust
+- **Languages:** JavaScript (Vue.js), TypeScript, Java (Spring Boot)
 - **Databases:** PostgreSQL
 
 ## 🎯 I'm currently learning
