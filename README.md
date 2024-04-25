@@ -1,12 +1,27 @@
-### Hi there 👋, Felipe Guzmán
-#### I am a Software Engineer.
+# Hello, I'm Felipe Guzman 👋
 
-Skills: C# / Kotlin / Java / C++ / Python
+Welcome to my GitHub! I'm a FullStack Developer with a passion for building scalable and efficient applications. I have experience in a variety of programming languages and technologies, and I'm currently focusing on Vue, Java, and exploring the exciting world of Web 3.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FeliGR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-guzmán-620a7921b/)  
+## 🌍 Based in
+- San José, Costa Rica
 
-![Profile views](https://gpvc.arturio.dev/FeliGR)  
+## 🚀 What I'm currently working on
+- Exploring Web 3 technologies at Dojo Coding to enhance my understanding of blockchain
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeliGR)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Skills
+- **Languages:** JavaScript (Vue.js), TypeScript, Java (Spring Boot), Python, Rust
+- **Databases:** PostgreSQL
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FeliGR&show_icons=true)  
+## 🎯 I'm currently learning
+- Web 3 concepts and technologies
+- Rust programming for system-level applications
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/felipeguzmanrod/)
+- [Twitter](https://twitter.com/felipeguzmanrod)
+
+## 💡 Fun Fact
+I enjoy playing padel, going for walks, and I'm planning to start swimming soon.
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeliGR&show_icons=true&theme=radical)
+
