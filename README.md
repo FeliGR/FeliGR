@@ -70,13 +70,6 @@ Welcome to my GitHub! I'm a **FullStack Developer** and **AI Enthusiast** with a
 
 ---
 
-## ✨ **Fun Facts**
-- 🌌 Inspired by the **potential of AI** to transform industries.  
-- 💡 Passionate about **clean code** and **practical solutions**.  
-- ☕ Powered by coffee, curiosity, and collaboration.
-
----
-
 ## 📫 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/felipeguzmanrod/" target="_blank">
