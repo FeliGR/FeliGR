@@ -3,18 +3,25 @@
 Welcome to my GitHub! I'm a FullStack Developer with a passion for building scalable and efficient applications.
 
 ## 🌍 Currently Living
-- 🇨🇷 San José, Costa Rica
+- 🇪🇸 Madrid, Spain  
+
+## 📚 Currently Studying
+- 🎓 Pursuing a Master's in Applied Artificial Intelligence.  
 
 ## 🚀 Currently Building
-- 🔗 Exploring the infinite possibilities within Web 3 to deepen my understanding of blockchain technologies.
+- 🤖 Focusing on AI-driven projects, blending my expertise in FullStack development with cutting-edge artificial intelligence techniques.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript (Vue.js), TypeScript, Java (Spring Boot)
+- **Languages:** JavaScript (Vue.js), TypeScript, Java (Spring Boot), Python
 - **Database:** PostgreSQL
 
 ## 🎯 Learning & Growing
-- 🌐 Mastering Web 3 technologies for decentralized applications.
-- 🦀 Diving into Rust for system-level engineering.
+- 🧠 Deepening my knowledge in Artificial Intelligence, with a focus on:
+  - Agent-based Modeling
+  - Deep Learning
+  - Natural Language Processing (NLP)
+  - Machine Learning
+- 💻 Enhancing my skills in building intelligent, scalable applications.
 
 ## 📫 Connect with Me
 - 📧 [LinkedIn](https://www.linkedin.com/in/felipeguzmanrod/)
@@ -22,6 +29,3 @@ Welcome to my GitHub! I'm a FullStack Developer with a passion for building scal
 
 ## 📊 My GitHub Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeliGR&show_icons=true&theme=tokyonight)
-
-
-
