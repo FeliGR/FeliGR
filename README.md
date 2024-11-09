@@ -34,7 +34,6 @@ Welcome to my GitHub! I'm a **FullStack Developer** and **AI Enthusiast** with a
   <img src="https://img.shields.io/badge/Skforecast-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Skforecast"/>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/ChatGPT-00A98F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
 
 ---
@@ -66,8 +65,6 @@ Welcome to my GitHub! I'm a **FullStack Developer** and **AI Enthusiast** with a
   - Building **intelligent agents** using AI techniques.  
   - Designing **deep learning models** for real-world applications.  
   - Automating workflows with **MLOps best practices**.
-- **🚀 Long-Term Vision:** Creating scalable, impactful solutions that integrate AI seamlessly.
-
 ---
 
 ## 📫 **Connect with Me**
